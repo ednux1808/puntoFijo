@@ -1,2 +1,2 @@
 # puntoFijo
-Programa de punto fijo en Java Faces Severs
+Programa de punto fijo en JSF
