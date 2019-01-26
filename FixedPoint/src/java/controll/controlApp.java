@@ -15,7 +15,7 @@ import modell.library.MathKit;
 public class controlApp {
     public static void main(String[] args) {
         Operation app = new Operation();
-        MathKit library = new MathKit();
-        library.evaluar();
+        app.testing();
+        app.fixedPoint();
     }
 }
